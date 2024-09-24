@@ -1,1 +1,1 @@
-# MagnoCodes
+# Magno
